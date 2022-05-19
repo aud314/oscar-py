@@ -1,0 +1,111 @@
+body {
+	background-color: #FFF8F0;
+	margin-top: 100px;
+	margin-left: 150px;
+	margin-right: 150px;
+	font-family: 'Mitr', sans-serif;
+}
+
+h1 {
+	color: #FFF8F0;
+	font-size: 100px;
+	background-color: #6699CC;
+	padding: 30px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+} 
+
+h2 {
+	color: #044389;
+	font-size: 50px;
+}
+
+p {
+	font-weight: 200;
+	font-size: 20px;
+}
+
+a {
+	color: #3D5A80;
+	font-size: 30px;text-decoration: none;
+}
+
+a:hover{
+	color : #EE6C4D
+}
+
+.first-picture {
+	width: 85%;
+	height: 600px;
+	object-fit: cover;
+	background-color: #6699CC;
+	padding: 60px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.picture-rectangle {
+	width: 30%;
+	height: 400px;
+	object-fit: cover;
+}
+
+.center-content {
+	text-align: center;
+
+}
+
+.son-kart {
+	text-align: left;
+	background-color: #E1F2FE;
+	padding: 5px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.video-center {
+	text-align: center;
+	background-color: #6699CC;
+	padding: 30px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.elements-aligned {
+	display: flex;
+	justify-content: space-around;
+	background-color: #E1F2FE;
+	padding: 30px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.link-aligned {
+	display: flex;
+	justify-content: space-around;
+	background-color: #E1F2FE;
+	padding: 10px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+td {
+	border: 2px solid #6699CC;
+}
+
+thead {
+	color: #044389;
+}
+
+tbody {
+	font-weight: 200;
+}
+
+caption {
+	color: #044389;
+	font-size: 20px;
+}
+
+.ligue-sud {
+		margin-bottom: 40px;
+}
