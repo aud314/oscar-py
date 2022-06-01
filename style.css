@@ -58,9 +58,9 @@ a:hover{
 .son-kart {
 	text-align: left;
 	background-color: #E1F2FE;
-	padding: 5px;
-	margin-top: 10px;
-	margin-bottom: 10px;
+	padding: 50px;
+	margin-top: 1px;
+	margin-bottom: 1px;
 }
 
 .video-center {
@@ -108,4 +108,41 @@ caption {
 
 .ligue-sud {
 		margin-bottom: 40px;
+}
+
+.portrait {
+width: 24%;
+height:600px;
+object-fit: cover;
+}
+
+.photos {
+	display: flex;
+	justify-content: space-around;
+}
+
+.facebook {
+	text-align: center;
+	width: 100px;
+	height: 100px;
+}
+
+.instagram {
+	text-align: center;
+	width: 100px;
+	height: 100px;
+}
+
+.reseaux {
+	display: flex;
+	justify-content: space-around;
+	padding: 30px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+h3 {
+	color: #044389;
+	text-align: center;
+	font-weight: 200;
 }
